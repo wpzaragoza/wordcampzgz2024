@@ -1,3 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Space+Grotesk&display=swap');
 body{font-family: 'Space Grotesk', sans-serif;}
-h1,h2,h3,h4,h5{font-family: 'Bungee', sans-serif;}
+h1,h2,h3,h4,h5,h6{font-family: 'Bungee', sans-serif;text-wrap: balance;font-style: normal;font-weight: 400;line-height: 100%;}
+h1{font-size: 60px;letter-spacing: -1.8px;}
+h2{font-size: 50px;letter-spacing: -1.5px;}
+h3{font-size: 40px;letter-spacing: -1.2px;}
+h4{font-size: 36px;letter-spacing: -1.08px;}
+h5{font-size: 32px;letter-spacing: -0.96px;}
+h6{font-size: 28px; letter-spacing: -0.84px;}
+p{text-wrap: pretty;}
+.color-patrocinadores{color:#B21236;}
+.color-evento{color:#F03812;}
+.color-ponentes{color:#FE8826;}
+.color-varios{color:#FEB914;}
+.color-comunidad{color:#2C9FA2;}
+.color-gris{color:#C4C4C4;}
